@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, **Kalinga Institute of Industrial Technology (KIIT DU)** — CGPA 8.41
+- 🎓 B.Tech in Computer Science & Engineering, **Kalinga Institute of Industrial Technology (KIIT DU)** 
 - 💡 Passionate about **AI/ML, Computer Vision, and Full-Stack Development**
 - 🌐 Building projects at the intersection of **real-world impact** — safety systems, emergency response tech
 - ☁️ Exploring **Cloud Computing** (AWS, Azure, GCP) and **Data Visualization** (Power BI)
