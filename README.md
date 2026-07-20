@@ -98,20 +98,18 @@ A data-driven dashboard project for tracking and visualizing expenses.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prisha3a&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=prisha3a&theme=radical&hide_border=true" />
 </p>
+
+> Note: `github-readme-stats.vercel.app` is a free shared instance used by millions of profiles, so it occasionally times out or rate-limits. If a badge above ever looks broken, just refresh the page — it's a temporary service hiccup, not an issue with the README itself.
 
 ---
 
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prisha3anand?theme=dark&font=Karma&ext=activity" alt="prisha3anand's LeetCode stats" />
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/prisha3anand/">
-    <img src="https://leetcode-stats-alfa.vercel.app/api?username=prisha3anand&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/prisha3anand?theme=dark&font=Karma&ext=activity" alt="prisha3anand's LeetCode stats" />
   </a>
 </p>
 
